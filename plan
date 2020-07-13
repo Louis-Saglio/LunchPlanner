@@ -1,0 +1,9 @@
+take as input a file describing which aliments are possible
+give as output the list of the lunches for the week
+
+there are 4 lunches by days
+a lunch is a not empty collection of aliments
+
+the program tries to optimize the score of the lunches planning according to a set of rules
+
+a rule is a function which takes a weekly lunch planning as input and returns a score

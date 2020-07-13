@@ -1,0 +1,37 @@
+[
+  {
+    "name": "egg",
+    "proteins": 13,
+    "lipids": 11,
+    "energy": 52,
+    "mass": 50
+  },
+  {
+    "name": "pasta",
+    "energy": 131,
+    "lipids": 1.1,
+    "proteins": 5,
+    "mass": 500
+  },
+  {
+    "name": "nectarine",
+    "proteins": 1.1,
+    "lipids": {
+      "saturated": 0,
+      "poly": 0.1,
+      "mono": 0.1
+    },
+    "energy": 44,
+    "mass": 120,
+    "tags": [
+      "vegetable"
+    ]
+  },
+  {
+    "name": "chopped steak",
+    "proteins": 19,
+    "lipids": 15,
+    "carbohydrates": 0,
+    "energy": 211
+  }
+]
